@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<ItemGroup>
+		<None Include="..\..\BnS.uproject" />
+		<Filter Include="Source">
+			<UniqueIdentifier>{3ECB1C58-677B-43DB-8178-61CE2D71C947}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\BnS.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<None Include="..\..\Source\BnSEditor.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<Filter Include="Config">
+			<UniqueIdentifier>{1E07F645-106C-4486-AFB5-CCECB1AF9254}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Config\DefaultEditor.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEngine.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultGame.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultInput.ini">
+			<Filter>Config</Filter>
+		</None >
+		<Filter Include="Source\BnS">
+			<UniqueIdentifier>{64C0E5D9-C828-4766-8EBE-F56F0E5D6620}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\BnS\BnS.Build.cs">
+			<Filter>Source\BnS</Filter>
+		</None >
+		<ClCompile Include="..\..\Source\BnS\BnS.cpp">
+			<Filter>Source\BnS</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\BnS\BnS.h">
+			<Filter>Source\BnS</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\BnS\BnSCharacter.cpp">
+			<Filter>Source\BnS</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\BnS\BnSCharacter.h">
+			<Filter>Source\BnS</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\BnS\BnSGameMode.cpp">
+			<Filter>Source\BnS</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\BnS\BnSGameMode.h">
+			<Filter>Source\BnS</Filter>
+		</ClInclude >
+	</ItemGroup>
+</Project>

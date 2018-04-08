@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<ItemGroup>
+		<None Include="O:\UnrealEngineMain\UnrealEngineGit19\Engine\Source\Programs\BuildPatchTool\BuildPatchTool.Target.cs" />
+		<Filter Include="Config">
+			<UniqueIdentifier>{1C4E9050-696E-4C5C-8F0F-782B06D9BDF5}</UniqueIdentifier>
+		</Filter>
+		<None Include="O:\UnrealEngineMain\UnrealEngineGit19\Engine\Programs\BuildPatchTool\Config\DefaultEngine.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="O:\UnrealEngineMain\UnrealEngineGit19\Engine\Source\Programs\BuildPatchTool\BuildPatchTool.Automation.cs" />
+		<None Include="O:\UnrealEngineMain\UnrealEngineGit19\Engine\Source\Programs\BuildPatchTool\BuildPatchTool.Build.cs" />
+		<Filter Include="Private">
+			<UniqueIdentifier>{E3BDF1E9-2ED3-423E-976A-856B12911F88}</UniqueIdentifier>
+		</Filter>
+		<ClCompile Include="O:\UnrealEngineMain\UnrealEngineGit19\Engine\Source\Programs\BuildPatchTool\Private\BuildPatchTool.cpp">
+			<Filter>Private</Filter>
+		</ClCompile >
+		<ClCompile Include="O:\UnrealEngineMain\UnrealEngineGit19\Engine\Source\Programs\BuildPatchTool\Private\ToolMode.cpp">
+			<Filter>Private</Filter>
+		</ClCompile >
+		<Filter Include="Private\ToolModes">
+			<UniqueIdentifier>{9D36B5A3-97E6-4D96-99EC-5885FB8C26E2}</UniqueIdentifier>
+		</Filter>
+		<ClCompile Include="O:\UnrealEngineMain\UnrealEngineGit19\Engine\Source\Programs\BuildPatchTool\Private\ToolModes\AutomationMode.cpp">
+			<Filter>Private\ToolModes</Filter>
+		</ClCompile >
+		<ClCompile Include="O:\UnrealEngineMain\UnrealEngineGit19\Engine\Source\Programs\BuildPatchTool\Private\ToolModes\CompactifyMode.cpp">
+			<Filter>Private\ToolModes</Filter>
+		</ClCompile >
+		<ClCompile Include="O:\UnrealEngineMain\UnrealEngineGit19\Engine\Source\Programs\BuildPatchTool\Private\ToolModes\DiffManifestMode.cpp">
+			<Filter>Private\ToolModes</Filter>
+		</ClCompile >
+		<ClCompile Include="O:\UnrealEngineMain\UnrealEngineGit19\Engine\Source\Programs\BuildPatchTool\Private\ToolModes\EnumerationMode.cpp">
+			<Filter>Private\ToolModes</Filter>
+		</ClCompile >
+		<ClCompile Include="O:\UnrealEngineMain\UnrealEngineGit19\Engine\Source\Programs\BuildPatchTool\Private\ToolModes\MergeManifestMode.cpp">
+			<Filter>Private\ToolModes</Filter>
+		</ClCompile >
+		<ClCompile Include="O:\UnrealEngineMain\UnrealEngineGit19\Engine\Source\Programs\BuildPatchTool\Private\ToolModes\PackageChunksMode.cpp">
+			<Filter>Private\ToolModes</Filter>
+		</ClCompile >
+		<ClCompile Include="O:\UnrealEngineMain\UnrealEngineGit19\Engine\Source\Programs\BuildPatchTool\Private\ToolModes\PatchGenerationMode.cpp">
+			<Filter>Private\ToolModes</Filter>
+		</ClCompile >
+		<ClCompile Include="O:\UnrealEngineMain\UnrealEngineGit19\Engine\Source\Programs\BuildPatchTool\Private\ToolModes\VerifyChunksMode.cpp">
+			<Filter>Private\ToolModes</Filter>
+		</ClCompile >
+		<Filter Include="Public">
+			<UniqueIdentifier>{317F9CFC-4EF0-4690-A471-C14653D6B7EC}</UniqueIdentifier>
+		</Filter>
+		<ClInclude Include="O:\UnrealEngineMain\UnrealEngineGit19\Engine\Source\Programs\BuildPatchTool\Public\BuildPatchTool.h">
+			<Filter>Public</Filter>
+		</ClInclude >
+		<Filter Include="Public\Interfaces">
+			<UniqueIdentifier>{C0092C47-55DD-4FA2-B6CE-ABF8447C83CE}</UniqueIdentifier>
+		</Filter>
+		<ClInclude Include="O:\UnrealEngineMain\UnrealEngineGit19\Engine\Source\Programs\BuildPatchTool\Public\Interfaces\ToolMode.h">
+			<Filter>Public\Interfaces</Filter>
+		</ClInclude >
+		<Filter Include="Public\ToolModes">
+			<UniqueIdentifier>{A885E642-18A4-40BD-AA15-9E2448EB759A}</UniqueIdentifier>
+		</Filter>
+		<ClInclude Include="O:\UnrealEngineMain\UnrealEngineGit19\Engine\Source\Programs\BuildPatchTool\Public\ToolModes\AutomationMode.h">
+			<Filter>Public\ToolModes</Filter>
+		</ClInclude >
+		<ClInclude Include="O:\UnrealEngineMain\UnrealEngineGit19\Engine\Source\Programs\BuildPatchTool\Public\ToolModes\CompactifyMode.h">
+			<Filter>Public\ToolModes</Filter>
+		</ClInclude >
+		<ClInclude Include="O:\UnrealEngineMain\UnrealEngineGit19\Engine\Source\Programs\BuildPatchTool\Public\ToolModes\DiffManifestMode.h">
+			<Filter>Public\ToolModes</Filter>
+		</ClInclude >
+		<ClInclude Include="O:\UnrealEngineMain\UnrealEngineGit19\Engine\Source\Programs\BuildPatchTool\Public\ToolModes\EnumerationMode.h">
+			<Filter>Public\ToolModes</Filter>
+		</ClInclude >
+		<ClInclude Include="O:\UnrealEngineMain\UnrealEngineGit19\Engine\Source\Programs\BuildPatchTool\Public\ToolModes\MergeManifestMode.h">
+			<Filter>Public\ToolModes</Filter>
+		</ClInclude >
+		<ClInclude Include="O:\UnrealEngineMain\UnrealEngineGit19\Engine\Source\Programs\BuildPatchTool\Public\ToolModes\PackageChunksMode.h">
+			<Filter>Public\ToolModes</Filter>
+		</ClInclude >
+		<ClInclude Include="O:\UnrealEngineMain\UnrealEngineGit19\Engine\Source\Programs\BuildPatchTool\Public\ToolModes\PatchGenerationMode.h">
+			<Filter>Public\ToolModes</Filter>
+		</ClInclude >
+		<ClInclude Include="O:\UnrealEngineMain\UnrealEngineGit19\Engine\Source\Programs\BuildPatchTool\Public\ToolModes\VerifyChunksMode.h">
+			<Filter>Public\ToolModes</Filter>
+		</ClInclude >
+		<Filter Include="Resources">
+			<UniqueIdentifier>{C3FBAEE3-807E-4E93-86A5-E8B40CED878F}</UniqueIdentifier>
+		</Filter>
+		<Filter Include="Resources\Windows">
+			<UniqueIdentifier>{2B766EA1-C10C-49BB-BE2E-AE67E3AB2420}</UniqueIdentifier>
+		</Filter>
+		<None Include="O:\UnrealEngineMain\UnrealEngineGit19\Engine\Source\Programs\BuildPatchTool\Resources\Windows\BuildPatchTool.ico">
+			<Filter>Resources\Windows</Filter>
+		</None >
+		<ResourceCompile Include="O:\UnrealEngineMain\UnrealEngineGit19\Engine\Source\Programs\BuildPatchTool\Resources\Windows\Resource.rc">
+			<Filter>Resources\Windows</Filter>
+		</ResourceCompile >
+	</ItemGroup>
+</Project>

@@ -1,0 +1,3 @@
+F:\UnrealSourceProjects\BnS\Source\BnS\BnS.Build.cs
+F:\UnrealSourceProjects\BnS\Source\BnS.Target.cs
+F:\UnrealSourceProjects\BnS\Source\BnSEditor.Target.cs

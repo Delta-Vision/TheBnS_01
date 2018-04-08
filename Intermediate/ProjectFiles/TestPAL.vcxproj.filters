@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<ItemGroup>
+		<None Include="O:\UnrealEngineMain\UnrealEngineGit19\Engine\Source\Programs\TestPAL\TestPAL.Target.cs" />
+		<None Include="O:\UnrealEngineMain\UnrealEngineGit19\Engine\Source\Programs\TestPAL\TestPAL.Build.cs" />
+		<Filter Include="Private">
+			<UniqueIdentifier>{401A2770-4EB2-4ABD-A2F0-0E875D06B6F4}</UniqueIdentifier>
+		</Filter>
+		<ClCompile Include="O:\UnrealEngineMain\UnrealEngineGit19\Engine\Source\Programs\TestPAL\Private\Main.cpp">
+			<Filter>Private</Filter>
+		</ClCompile >
+		<ClCompile Include="O:\UnrealEngineMain\UnrealEngineGit19\Engine\Source\Programs\TestPAL\Private\Parent.cpp">
+			<Filter>Private</Filter>
+		</ClCompile >
+		<ClInclude Include="O:\UnrealEngineMain\UnrealEngineGit19\Engine\Source\Programs\TestPAL\Private\Parent.h">
+			<Filter>Private</Filter>
+		</ClInclude >
+		<ClCompile Include="O:\UnrealEngineMain\UnrealEngineGit19\Engine\Source\Programs\TestPAL\Private\TestDirectoryWatcher.cpp">
+			<Filter>Private</Filter>
+		</ClCompile >
+		<ClInclude Include="O:\UnrealEngineMain\UnrealEngineGit19\Engine\Source\Programs\TestPAL\Private\TestDirectoryWatcher.h">
+			<Filter>Private</Filter>
+		</ClInclude >
+		<ClInclude Include="O:\UnrealEngineMain\UnrealEngineGit19\Engine\Source\Programs\TestPAL\Private\TestPALLog.h">
+			<Filter>Private</Filter>
+		</ClInclude >
+	</ItemGroup>
+</Project>
