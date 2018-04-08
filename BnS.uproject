@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{96DB471F-43F4-A71B-64CC-BC89051DFF15}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "BnS",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
