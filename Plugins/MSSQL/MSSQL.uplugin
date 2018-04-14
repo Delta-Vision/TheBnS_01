@@ -1,0 +1,27 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "MSSQL Server Integration",
+	"Description": "This integrates MSSQL Server in Unreal Engine 4",
+	"Category": "DataBase",
+	"CreatedBy": "Sameek Kundu",
+	"CreatedByURL": "",
+	"DocsURL": "https://sameek4.github.io/UnrealRemastered/Plugins/MSSQL.html",
+	"MarketplaceURL": "https://www.unrealengine.com/marketplace/ms-sql-integration",
+	"SupportURL": "",
+	"EngineVersion": "4.19.0",
+	"CanContainContent": true,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "MSSQL",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"WhitelistPlatforms": [
+				"Win64",
+				"Win32"
+			]
+		}
+	]
+}

@@ -1,0 +1,8 @@
+{
+	"BuildId": "d4aee38e-9b7e-45c6-b49f-5217077d7bdf",
+	"Modules": 
+	{
+		"VaRestEditorPlugin": "UE4Editor-VaRestEditorPlugin.dll",
+		"VaRestPlugin": "UE4Editor-VaRestPlugin.dll"
+	}
+}

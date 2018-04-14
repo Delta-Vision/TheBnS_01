@@ -9,5 +9,17 @@
 			"Type": "Runtime",
 			"LoadingPhase": "Default"
 		}
+	],
+	"Plugins": [
+		{
+			"Name": "MSSQL",
+			"Enabled": true,
+			"MarketplaceURL": "https://www.unrealengine.com/marketplace/ms-sql-integration"
+		},
+		{
+			"Name": "VaRestPlugin",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/e47be161e7a24e928560290abd5dcc4f"
+		}
 	]
 }
