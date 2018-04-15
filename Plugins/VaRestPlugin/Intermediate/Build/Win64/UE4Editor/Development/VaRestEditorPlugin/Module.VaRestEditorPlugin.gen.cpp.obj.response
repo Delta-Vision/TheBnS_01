@@ -23,12 +23,12 @@
 /wd4838
 /w44668
 /I O:\UnrealEngineMain\UnrealEngineGit19\Engine\Source
-/I O:\VaRestPlugin\HostProject\Plugins\VaRestPlugin\Source\VaRestEditorPlugin\Private
-/I O:\VaRestPlugin\HostProject\Plugins\VaRestPlugin\Source
-/I O:\VaRestPlugin\HostProject\Plugins\VaRestPlugin\Source\VaRestEditorPlugin\Classes
-/I O:\VaRestPlugin\HostProject\Plugins\VaRestPlugin\Source\VaRestEditorPlugin\Public
-/I O:\VaRestPlugin\HostProject\Plugins\VaRestPlugin\Intermediate\Build\Win64\UE4Editor\Inc\VaRestEditorPlugin
-/I O:\VaRestPlugin\HostProject\Plugins\VaRestPlugin\Source\VaRestEditorPlugin
+/I F:\UnrealSourceProjects\TheBnS_01\Plugins\VaRestPlugin\Source\VaRestEditorPlugin\Private
+/I F:\UnrealSourceProjects\TheBnS_01\Plugins\VaRestPlugin\Source
+/I F:\UnrealSourceProjects\TheBnS_01\Plugins\VaRestPlugin\Source\VaRestEditorPlugin\Classes
+/I F:\UnrealSourceProjects\TheBnS_01\Plugins\VaRestPlugin\Source\VaRestEditorPlugin\Public
+/I F:\UnrealSourceProjects\TheBnS_01\Plugins\VaRestPlugin\Intermediate\Build\Win64\UE4Editor\Inc\VaRestEditorPlugin
+/I F:\UnrealSourceProjects\TheBnS_01\Plugins\VaRestPlugin\Source\VaRestEditorPlugin
 /I O:\UnrealEngineMain\UnrealEngineGit19\Engine\Source\Runtime\Core\Public
 /I O:\UnrealEngineMain\UnrealEngineGit19\Engine\Source\Runtime\Core\Public\Internationalization
 /I O:\UnrealEngineMain\UnrealEngineGit19\Engine\Source\Runtime\Core\Public\Async
@@ -49,10 +49,10 @@
 /I O:\UnrealEngineMain\UnrealEngineGit19\Engine\Source\Runtime\Core\Public\UObject
 /I O:\UnrealEngineMain\UnrealEngineGit19\Engine\Source\Runtime\Core\Public\Windows
 /I O:\UnrealEngineMain\UnrealEngineGit19\Engine\Source\Runtime\Core
-/I O:\VaRestPlugin\HostProject\Plugins\VaRestPlugin\Source\VaRestPlugin\Classes
-/I O:\VaRestPlugin\HostProject\Plugins\VaRestPlugin\Source\VaRestPlugin\Public
-/I O:\VaRestPlugin\HostProject\Plugins\VaRestPlugin\Intermediate\Build\Win64\UE4Editor\Inc\VaRestPlugin
-/I O:\VaRestPlugin\HostProject\Plugins\VaRestPlugin\Source\VaRestPlugin
+/I F:\UnrealSourceProjects\TheBnS_01\Plugins\VaRestPlugin\Source\VaRestPlugin\Classes
+/I F:\UnrealSourceProjects\TheBnS_01\Plugins\VaRestPlugin\Source\VaRestPlugin\Public
+/I F:\UnrealSourceProjects\TheBnS_01\Plugins\VaRestPlugin\Intermediate\Build\Win64\UE4Editor\Inc\VaRestPlugin
+/I F:\UnrealSourceProjects\TheBnS_01\Plugins\VaRestPlugin\Source\VaRestPlugin
 /I O:\UnrealEngineMain\UnrealEngineGit19\Engine\Source\Runtime\CoreUObject\Public
 /I O:\UnrealEngineMain\UnrealEngineGit19\Engine\Source\Runtime\CoreUObject\Public\Blueprint
 /I O:\UnrealEngineMain\UnrealEngineGit19\Engine\Source\Runtime\CoreUObject\Public\Internationalization
@@ -378,9 +378,9 @@
 /FI"O:\UnrealEngineMain\UnrealEngineGit19\Engine\Intermediate\Build\Win64\UE4Editor\Development\UnrealEd\SharedPCH.UnrealEd.h"
 /Yu"O:\UnrealEngineMain\UnrealEngineGit19\Engine\Intermediate\Build\Win64\UE4Editor\Development\UnrealEd\SharedPCH.UnrealEd.h"
 /Fp"O:\UnrealEngineMain\UnrealEngineGit19\Engine\Intermediate\Build\Win64\UE4Editor\Development\UnrealEd\SharedPCH.UnrealEd.h.pch"
-"O:\VaRestPlugin\HostProject\Plugins\VaRestPlugin\Intermediate\Build\Win64\UE4Editor\Development\VaRestEditorPlugin\Module.VaRestEditorPlugin.gen.cpp"
-/FI"O:\VaRestPlugin\HostProject\Plugins\VaRestPlugin\Intermediate\Build\Win64\UE4Editor\Development\VaRestEditorPlugin\Definitions.VaRestEditorPlugin.h"
-/Fo"O:\VaRestPlugin\HostProject\Plugins\VaRestPlugin\Intermediate\Build\Win64\UE4Editor\Development\VaRestEditorPlugin\Module.VaRestEditorPlugin.gen.cpp.obj"
+"F:\UnrealSourceProjects\TheBnS_01\Plugins\VaRestPlugin\Intermediate\Build\Win64\UE4Editor\Development\VaRestEditorPlugin\Module.VaRestEditorPlugin.gen.cpp"
+/FI"F:\UnrealSourceProjects\TheBnS_01\Plugins\VaRestPlugin\Intermediate\Build\Win64\UE4Editor\Development\VaRestEditorPlugin\Definitions.VaRestEditorPlugin.h"
+/Fo"F:\UnrealSourceProjects\TheBnS_01\Plugins\VaRestPlugin\Intermediate\Build\Win64\UE4Editor\Development\VaRestEditorPlugin\Module.VaRestEditorPlugin.gen.cpp.obj"
 /TP
 /GR-
 /W4
